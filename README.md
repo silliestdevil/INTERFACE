@@ -14,5 +14,6 @@ Begin by starting with StartScreen.html which will lead you through the interfac
 
 Acknowledgments 
 
-//https://p5js.org/examples/motion-circle-collision.html collision detection reference code 
+//https://p5js.org/examples/motion-circle-collision.html
 //https://www.youtube.com/watch?v=HK_oG_ev8FQ
+
